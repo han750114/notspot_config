@@ -20,15 +20,15 @@
           - RR3_joint
 
       gains:
-        FL1_joint : {p: 180, d: 0.9, i: 20}
-        FL2_joint : {p: 180, d: 0.9, i: 20}
-        FL3_joint : {p: 180, d: 0.9, i: 20}
-        FR1_joint : {p: 180, d: 0.9, i: 20}
-        FR2_joint : {p: 180, d: 0.9, i: 20}
-        FR3_joint : {p: 180, d: 0.9, i: 20}
-        RL1_joint : {p: 180, d: 0.9, i: 20}
-        RL2_joint : {p: 180, d: 0.9, i: 20}
-        RL3_joint : {p: 180, d: 0.9, i: 20}
-        RR1_joint : {p: 180, d: 0.9, i: 20}
-        RR2_joint : {p: 180, d: 0.9, i: 20}
-        RR3_joint : {p: 180, d: 0.9, i: 20}
+        FL1_joint : {p: 9, d: 0.3055, i: 0.03}
+        FL2_joint : {p: 9, d: 0.3055, i: 0.03}
+        FL3_joint : {p: 9, d: 0.3055, i: 0.03}
+        FR1_joint : {p: 9, d: 0.3055, i: 0.03}
+        FR2_joint : {p: 9, d: 0.3055, i: 0.03}
+        FR3_joint : {p: 9, d: 0.3055, i: 0.03}
+        RL1_joint : {p: 9, d: 0.3055, i: 0.03}
+        RL2_joint : {p: 9, d: 0.3055, i: 0.03}
+        RL3_joint : {p: 9, d: 0.3055, i: 0.03}
+        RR1_joint : {p: 9, d: 0.3055, i: 0.03}
+        RR2_joint : {p: 9, d: 0.3055, i: 0.03}
+        RR3_joint : {p: 9, d: 0.3055, i: 0.03}
