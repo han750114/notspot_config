@@ -1,0 +1,24 @@
+base: base_link
+left_front:
+  - FL1
+  - FL2
+  - FL3
+  - FL4
+
+right_front:
+  - FR1
+  - FR2
+  - FR3
+  - FR4
+
+left_hind:
+  - RL1
+  - RL2
+  - RL3
+  - RL4
+
+right_hind:
+  - RR1
+  - RR2
+  - RR3
+  - RR4

@@ -1,0 +1,23 @@
+left_front:
+  - FL1_joint
+  - FL2_joint
+  - FL3_joint
+  - FL4_joint
+
+right_front:
+  - FR1_joint
+  - FR2_joint
+  - FR3_joint
+  - FR4_joint
+
+left_hind:
+  - RL1_joint
+  - RL2_joint
+  - RL3_joint
+  - RL4_joint
+
+right_hind:
+  - RR1_joint
+  - RR2_joint
+  - RR3_joint
+  - RR4_joint
